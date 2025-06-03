@@ -1011,7 +1011,15 @@ section,
   list-style: none;
   padding: 0;
 }
-
+.textH{
+  font-size: 500px;
+}
+.textP{
+ font-size: 20px;
+}
+#focoP{
+  font-size: 20px;
+}
 .about .content ul li {
   padding: 0 0 10px 30px;
   position: relative;
